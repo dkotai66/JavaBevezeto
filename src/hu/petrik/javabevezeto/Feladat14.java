@@ -36,8 +36,10 @@ public class Feladat14 {
             else if(valasz.equals("e")){
                 System.out.println("írja be az első intervallumot: ");
                 int a = sc.nextInt();
+                sc.nextLine();
                 System.out.println("írja be a második intervallumot: ");
                 int b = sc.nextInt();
+                sc.nextLine();
 
             }
             else {
